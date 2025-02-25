@@ -1,15 +1,5 @@
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
-#### Current skills:
-
-- JS
-- CSS
-- HTML
-- Python
-- Shell scripting
-
-Pretty much just front end devops and some scripting. I use the word 'skills' very lightly because I am by no means an expert or anywhere close to being one for a while lol.
-
 Also I use arch linux :godmode: (btw), not that it's relevant but thought anyone reading this deserves to know.
 
 #### Current Projects:
@@ -34,8 +24,6 @@ Just like every other baby dev, I've got dreams and aspirations far beyond my ca
 
 💡 | 💻 **Linux distro:** 99.99% most likely will be arch based because that's what I'm comfortable with.
 
-💡 | 🎮 **Open world game:** Multiplayer open world game similar to [RuneScape](https://en.wikipedia.org/wiki/RuneScape) or [club penguin](https://en.wikipedia.org/wiki/Club_Penguin); not to put them in the same category lol but a similar style to them.
-
 And now concluding this with some holy wisdom:
 
 *“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the world. You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some bird ideas. Maybe that’s the best you can do.”*
@@ -45,14 +33,22 @@ And now concluding this with some holy wisdom:
 ##### Reference Guide
 
 [Type]
+
 📓:documentation
+
 📄:file
+
 🎮:game
+
 💲:script
+
 💻:software
 
 [State]
+
 💡:idea
+
 ✅:finished
+
 🚧:unfinished
 
