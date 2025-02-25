@@ -4,7 +4,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 🚧 | 📓 [arch-btw](https://github.com/l0vemimi/arch-btw): Docs database repository for [archlinux](https://archlinux.org/); I plan to add an install wiki, list of packages sorted by use case, man pages and general "how-to's" for linux.
 
-✅ | 📄💲 [bashrc](https://github.com/l0vemimi/bashrc): Bashrc config for lazy people, by a lazy person. My .bashrc in .md format with 1-3 letter aliases and other helpful things such as prompt colour guides and more. An attempt to make the lives of my bash homies more convenient.
+✅ | 📄💲 [bashrc](https://github.com/l0vemimi/bashrc): .bashrc config for lazy people, by a lazy person. My .bashrc in .md format with 1-3 letter aliases and other helpful things such as prompt colour guides and more. An attempt to make the lives of my bash homies more convenient.
 
 🚧 | 🎮 [GlowieInTheDark](https://github.com/l0vemimi/GlowieInTheDark) [JS/PHASER]: Silly and useless game in honour of the one and only [King Terry Davis](https://youtu.be/moAFmM_XYJI?feature=shared). I plan to add a sound track, more UI development, environment mappings and more. Current state is bare bones. 
 
