@@ -1,7 +1,5 @@
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
-Also I use arch linux :godmode: (btw), not that it's relevant but thought anyone reading this deserves to know.
-
 #### Current Projects:
 
 🚧 | 📓 [arch-btw](https://github.com/l0vemimi/arch-btw): Docs database repository for [archlinux](https://archlinux.org/); I plan to add an install wiki, list of packages sorted by use case, man pages and general "how-to's" for linux.
