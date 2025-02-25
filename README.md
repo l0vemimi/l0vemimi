@@ -1,11 +1,14 @@
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
-#### Current skills: Front end web dev ~ 
-- JS CSS, HTML
+#### Current skills:
+
+- JS
+- CSS
+- HTML
 - Python
 - Shell scripting
 
-I use the word 'skills' very lightly because I am by no means an expert or anywhere close to being one for a while lol.
+Pretty much just front end devops and some scripting. I use the word 'skills' very lightly because I am by no means an expert or anywhere close to being one for a while lol.
 
 Also I use arch linux :godmode: (btw), not that it's relevant but thought anyone reading this deserves to know.
 
