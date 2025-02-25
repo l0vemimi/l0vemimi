@@ -16,7 +16,7 @@ Also I use arch linux :godmode: (btw), not that it's relevant but thought anyone
 
 #### Future Projects:
 
-Just like every other baby dev, I've got dreams and aspirations far beyond by capabilities. Below is a list of projects I'd like to create in the future.
+Just like every other baby dev, I've got dreams and aspirations far beyond my capabilities. Below is a list of projects I'd like to create in the future.
 
 💡 | 💻 **Android OS:** Free open source android operating system with NO telemetry; user focused; Centered around privacy; Freedom for autonomous control.
 
