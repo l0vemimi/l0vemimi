@@ -33,22 +33,14 @@ And now concluding this with some holy wisdom:
 ##### Reference Guide
 
 [Type]
-
 📓:documentation
-
 📄:file
-
 🎮:game
-
 💲:script
-
 💻:software
 
 [State]
-
 💡:idea
-
 ✅:finished
-
 🚧:unfinished
 
