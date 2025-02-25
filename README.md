@@ -14,13 +14,15 @@ Also I use arch linux :godmode: (btw), not that it's relevant but thought anyone
 
 #### Current Projects:
 
-🚧 | 📓 [tigerdb](https://github.com/l0vemimi/tigerdb): Docs database and repository for all things ops; devops; cybersec; red&blue teaming.
-
 🚧 | 📓 [arch-btw](https://github.com/l0vemimi/arch-btw): Docs database repository for [archlinux](https://archlinux.org/); I plan to add an install wiki, list of packages sorted by use case, man pages and general "how-to's" for linux.
+
+✅ | 📄💲 [bashrc](https://github.com/l0vemimi/bashrc): Bashrc config for lazy people, by a lazy person. My .bashrc in .md format with 1-3 letter aliases and other helpful things such as prompt colour guides and more. An attempt to make the lives of my bash homies more convenient.
 
 🚧 | 🎮 [GlowieInTheDark](https://github.com/l0vemimi/GlowieInTheDark) [JS/PHASER]: Silly and useless game in honour of the one and only [King Terry Davis](https://youtu.be/moAFmM_XYJI?feature=shared). I plan to add a sound track, more UI development, environment mappings and more. Current state is bare bones. 
 
 🚧 | 🎮 [ow](https://github.com/l0vemimi/ow) [PY/PYGAME]: OW or *Open World* Another silly unfinished game; I've only just built the base concept. I plan to add actual maps; character creation; and just general logic. It will be a single player open world game similar to [animal crossing](https://en.wikipedia.org/wiki/Animal_Crossing). 
+
+🚧 | 📓 [tigerdb](https://github.com/l0vemimi/tigerdb): Docs database and repository for all things ops; devops; cybersec; red&blue teaming.
 
 #### Future Projects:
 
@@ -40,14 +42,17 @@ And now concluding this with some holy wisdom:
 
 ― Terry A. Davis 
 
-<!-- 
+##### Reference Guide
+
 [Type]
 📓:documentation
+📄:file
 🎮:game
+💲:script
 💻:software
 
 [State]
 💡:idea
 ✅:finished
 🚧:unfinished
--->
+
