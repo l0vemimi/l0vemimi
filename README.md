@@ -8,7 +8,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 🚧 | 🎮 [GlowieInTheDark](https://github.com/l0vemimi/GlowieInTheDark) [JS/PHASER]: Silly and useless game in honour of the one and only [King Terry Davis](https://youtu.be/moAFmM_XYJI?feature=shared). I plan to add a sound track, more UI development, environment mappings and more. Current state is bare bones. 
 
-🚧 | [home](https://github.com/l0vemimi/home) [HTML/JS/CSS]: A personal and customisable browser homepage. You can edit, add and remove your favourite website url's for easy access. I plan to add a fully customisable  css, functional widgets and much more. Still currently in the early stage
+🚧 | 🌐 [home](https://github.com/l0vemimi/home) [HTML/JS/CSS]: A personal and customisable browser homepage. You can edit, add and remove your favourite website url's for easy access. I plan to add a fully customisable  css, functional widgets and much more. Still currently in the early stage.
 
 🚧 | 🎮 [ow](https://github.com/l0vemimi/ow) [PY/PYGAME]: OW or *Open World* Another silly unfinished game; I've only just built the base concept. I plan to add actual maps; character creation; and just general logic. It will be a single player open world game similar to [animal crossing](https://en.wikipedia.org/wiki/Animal_Crossing). 
 
@@ -28,6 +28,7 @@ And now concluding this with some holy wisdom:
 🎮:game
 💲:script
 💻:software
+🌐:web
 
 [State]
 💡:idea
