@@ -12,8 +12,6 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 🚧 | 🎮 [ow](https://github.com/l0vemimi/ow) [PY/PYGAME]: OW or *Open World* Another silly unfinished game; I've only just built the base concept. I plan to add actual maps; character creation; and just general logic. It will be a single player open world game similar to [animal crossing](https://en.wikipedia.org/wiki/Animal_Crossing). 
 
-🚧 | 📓 [tigerdb](https://github.com/l0vemimi/tigerdb): Docs database and repository for all things ops; devops; cybersec; red&blue teaming.
-
 And now concluding this with some holy wisdom:
 
 *“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the world. You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some bird ideas. Maybe that’s the best you can do.”*
