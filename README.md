@@ -6,10 +6,6 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 ✅ | 📄💲 [bashrc](https://github.com/l0vemimi/bashrc): .bashrc config for lazy people, by a lazy person. My .bashrc in .md format with 1-3 letter aliases and other helpful things such as prompt colour guides and more. An attempt to make the lives of my bash homies more convenient.
 
-🚧 | 🌐 [home](https://github.com/l0vemimi/home) [HTML/JS/CSS]: A personal and customisable browser homepage. You can edit, add and remove your favourite website url's for easy access. I plan to add a fully customisable  css, functional widgets and much more. Still currently in the early stage.
-
-And now concluding this with some holy wisdom:
-
 *“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the world. You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some bird ideas. Maybe that’s the best you can do.”*
 
 ― Terry A. Davis 
