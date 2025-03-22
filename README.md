@@ -6,7 +6,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 ---
 
 <details>
-    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/> <b>Projects:</b></summary>
+    <summary>❤️ <b>Projects:</b></summary>
 
 ##### ArchBtw
 
