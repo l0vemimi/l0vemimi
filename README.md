@@ -3,7 +3,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 #### Current Projects:
 
 ##### ArchBtw
-🚧 | 📓 [arch-btw](https://github.com/l0vemimi/ArchBtw)[**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
+🚧 | 📓 [arch-btw](https://github.com/l0vemimi/ArchBtw) [**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
 
 - [x] Installation guide for:
   - Regular: *Brief description and reference links.
@@ -14,11 +14,11 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 ##### LazyBash
 
-✅ | 📄💲 [LazyBash]([https://github.com/l0vemimi/bashrc](https://github.com/l0vemimi/LazyBash))[**SH**]: Bash config for lazy people, by a lazy person. My .bashrc in .md format with 1-3 letter aliases and other helpful things such as prompt colour guides and more. An attempt to make the lives of my bash homies more convenient.
+✅ | 📄💲 [LazyBash]([https://github.com/l0vemimi/bashrc](https://github.com/l0vemimi/LazyBash)) [**SH**]: Bash config for lazy people, by a lazy person. My .bashrc in .md format with 1-3 letter aliases and other helpful things such as prompt colour guides and more. An attempt to make the lives of my bash homies more convenient.
 
 ##### TxtEd
 
-🚧 | 💻 [TxtEd](https://github.com/l0vemimi/TxtEd)[**PY**]: Very simple text editor with wayland compatability.
+🚧 | 💻 [TxtEd](https://github.com/l0vemimi/TxtEd) [**PY**]: Very simple text editor with wayland compatability.
 
 - [x] Two versions:
   - Python.
