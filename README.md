@@ -1,3 +1,5 @@
+---
+
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
 ---
@@ -72,3 +74,4 @@ Now, ending this with some holy wisdom:
 ✅:finished
 🚧:unfinished
 
+---
