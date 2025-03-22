@@ -6,14 +6,14 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 ---
 
 <details>
-    <summary>❤️ <b>Projects:</b></summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/> <b>Projects:</b></summary>
 
 ##### ArchBtw
 
 🚧 | 📓 [ArchBtw](https://github.com/l0vemimi/ArchBtw) [**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
 
 <details>
-    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>State:</b></summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/> <b>State:</b></summary>
     
 - [x] Installation guide for:
   - Regular: *Brief description and reference links.
@@ -33,7 +33,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 🚧 | 💻 [TxtEd](https://github.com/l0vemimi/TxtEd) [**PY**]: Very simple text editor with wayland compatability.
 
 <details>
-    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>State:</b></summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/> <b>State:</b></summary>
     
 - [x] Two versions:
   - Python.
@@ -50,14 +50,14 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 ---
 
-Now, ending this with some holy wisdom:
+*Now, ending this with some holy wisdom:*
 
 > *“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the world. You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some bird ideas. Maybe that’s the best you can do.” ― Terry A. Davis*
 
 ---
 
 <details>
-    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>Reference Guide:</b></summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/> <b>Reference Guide:</b></summary>
     
 [Type]
 📓:documentation
