@@ -3,10 +3,10 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=l0vemimi&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=l0vemimi&show_icons=true&theme=light" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&langs_count=8&card_width=320&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&langs_count=8&card_width=320&theme=light" />
     </td>
   </tr>
 </table> 
