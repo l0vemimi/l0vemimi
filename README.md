@@ -1,7 +1,6 @@
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=l0vemimi.l0vemimi)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l0vemimi&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l0vemimi&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&layout=compact&theme=light) <!-- Themes: Dark; Light; Radical. -->
 
 ---
