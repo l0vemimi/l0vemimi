@@ -6,7 +6,11 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 🚧 | 📓 [arch-btw](https://github.com/l0vemimi/ArchBtw) [**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
 
 <details>
-    <summary>**State:**</summary>
+    <summary>
+        <b>State:
+        </b>
+    </summary>
+    
 - [x] Installation guide for:
   - Regular: *Brief description and reference links.
   - Vets: *Straight forward no bullshit, no bloat reference list.*
@@ -24,7 +28,12 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 🚧 | 💻 [TxtEd](https://github.com/l0vemimi/TxtEd) [**PY**]: Very simple text editor with wayland compatability.
 
 <details>
-    <summary>**State:**</summary>
+    <summary>
+        <b>
+            State:
+        </b>
+    </summary>
+    
 - [x] Two versions:
   - Python.
   - Python-QT6 / wayland.
