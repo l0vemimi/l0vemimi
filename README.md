@@ -6,24 +6,14 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 ---
 
 <details>
-    <summary>
-        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
-        <b>
-            Projects:
-        </b>
-    </summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>Projects:</b></summary>
 
 ##### ArchBtw
 
 🚧 | 📓 [ArchBtw](https://github.com/l0vemimi/ArchBtw) [**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
 
 <details>
-    <summary>
-        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
-        <b>
-            State:
-        </b>
-    </summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>State:</b></summary>
     
 - [x] Installation guide for:
   - Regular: *Brief description and reference links.
@@ -43,12 +33,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 🚧 | 💻 [TxtEd](https://github.com/l0vemimi/TxtEd) [**PY**]: Very simple text editor with wayland compatability.
 
 <details>
-    <summary>
-        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
-        <b>
-            State:
-        </b>
-    </summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>State:</b></summary>
     
 - [x] Two versions:
   - Python.
@@ -72,12 +57,7 @@ Now, ending this with some holy wisdom:
 ---
 
 <details>
-    <summary>
-        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
-        <b>
-            Reference Guide:
-        </b>
-    </summary>
+    <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/><b>Reference Guide:</b></summary>
     
 [Type]
 📓:documentation
