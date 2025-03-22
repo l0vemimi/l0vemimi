@@ -7,6 +7,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 <details>
     <summary>
+        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
         <b>
             Projects:
         </b>
@@ -18,6 +19,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 <details>
     <summary>
+        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
         <b>
             State:
         </b>
@@ -42,6 +44,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 <details>
     <summary>
+        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
         <b>
             State:
         </b>
@@ -64,14 +67,13 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 Now, ending this with some holy wisdom:
 
-> *“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the world. You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some bird ideas. Maybe that’s the best you can do.”*
-
-*― Terry A. Davis*
+> *“What’s reality? I don’t know. When my bird was looking at my computer monitor I thought, ‘That bird has no idea what he’s looking at.’ And yet what does the bird do? Does he panic? No, he can’t really panic, he just does the best he can. Is he able to live in a world where he’s so ignorant? Well, he doesn’t really have a choice. The bird is okay even though he doesn’t understand the world. You’re that bird looking at the monitor, and you’re thinking to yourself, ‘I can figure this out.’ Maybe you have some bird ideas. Maybe that’s the best you can do.” ― Terry A. Davis*
 
 ---
 
 <details>
     <summary>
+        <img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/>
         <b>
             Reference Guide:
         </b>
