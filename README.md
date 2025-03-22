@@ -1,8 +1,16 @@
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
+![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0vemimi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&layout=compact&theme=radical) <!-- Themes: Dark; Light; Radical. -->
+
 ---
 
-#### Current Projects:
+<details>
+    <summary>
+        <b>
+            Projects:
+        </b>
+    </summary>
 
 ##### ArchBtw
 
@@ -10,7 +18,8 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 <details>
     <summary>
-        <b>State:
+        <b>
+            State:
         </b>
     </summary>
     
@@ -48,6 +57,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 - [ ] Language support.
 - [ ] Customisatoin.
 
+</details>
 </details>
 
 ---
