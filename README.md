@@ -2,9 +2,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l0vemimi&layout=compact&theme=light)
 ![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0vemimi&show_icons=true&theme=light)
-
-[![Mimi's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=l0vemimi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Mimi's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)](https://wakatime.com/@your_wakatime_username)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&langs_count=8&theme=light) <!-- Themes: Dark; Light; Radical. -->
 
 ---
