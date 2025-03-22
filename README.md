@@ -1,5 +1,3 @@
----
-
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
 ---
@@ -21,6 +19,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 - [ ] Package list by categories.
 - [ ] Man pages.
 - [ ] General linux how-too's.
+
 </details>
 
 ##### LazyBash
@@ -47,6 +46,7 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 - [ ] Syntax highlighting.
 - [ ] Language support.
 - [ ] Customisatoin.
+
 </details>
 
 ---
@@ -59,8 +59,13 @@ Now, ending this with some holy wisdom:
 
 ---
 
-##### Reference Guide
-
+<details>
+    <summary>
+        <b>
+            Reference Guide:
+        </b>
+    </summary>
+    
 [Type]
 📓:documentation
 📄:file
@@ -74,4 +79,4 @@ Now, ending this with some holy wisdom:
 ✅:finished
 🚧:unfinished
 
----
+</details>
