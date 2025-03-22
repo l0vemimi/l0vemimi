@@ -5,7 +5,8 @@ Baby developer. I also have adhd so my repos are usually littered with ✨ unfin
 #### Current Projects:
 
 ##### ArchBtw
-🚧 | 📓 [arch-btw](https://github.com/l0vemimi/ArchBtw) [**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
+
+🚧 | 📓 [ArchBtw](https://github.com/l0vemimi/ArchBtw) [**MD**]: Repository, manpage and guidelines for [archlinux](https://archlinux.org/). 
 
 <details>
     <summary>
