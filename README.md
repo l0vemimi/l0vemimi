@@ -1,8 +1,17 @@
 Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=l0vemimi&layout=compact&theme=light) -->
-![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0vemimi&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&langs_count=8&theme=light) <!-- Themes: Dark; Light; Radical. -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=l0vemimi&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0vemimi&langs_count=8&card_width=320&theme=radical" />
+    </td>
+  </tr>
+</table> 
+
+<!-- Themes: Dark; Light; Radical. -->
 
 ---
 
