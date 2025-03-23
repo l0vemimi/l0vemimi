@@ -1,4 +1,4 @@
-Baby developer. I also have adhd so my repos are usually littered with ✨ unfinished projects. ✨
+Baby dev. 🐥🌼🧁
 
 <table>
   <tr>
