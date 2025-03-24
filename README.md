@@ -45,15 +45,15 @@ Baby dev. 🐥🌼🧁
 <details>
     <summary><img src="https://img.icons8.com/?size=100&id=57696&format=png&color=000000" alt="Icon" width="20"/> <b>State:</b></summary>
     
-- [x] Two versions:
-  - Python.
-  - Python-QT6 / wayland.
+- [x] Python-QT6 / wayland.
 - [x] Basic functions:
-  - Save.
-  - Create new files.
-- [ ] Syntax highlighting.
-- [ ] Language support.
-- [ ] Customisatoin.
+  - Save
+  - Create new files
+  - Word count
+  - Light / Dark mode
+- [ ] Syntax highlighting
+- [ ] Language support
+- [ ] Customisatoin
 
 </details>
 </details>
