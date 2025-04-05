@@ -28,6 +28,7 @@ Baby dev. 🐥🌼🧁
 - [x] Installation guide for:
   - Regular: *Brief description and reference links.
   - Vets: *Straight forward no bullshit, no bloat reference list.*
+- [x] Guidelines for creating your own pacman package repository.
 - [ ] Package list by categories.
 - [ ] Man pages.
 - [ ] General linux how-too's.
